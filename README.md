@@ -1,2 +1,2 @@
 # CursoCSS
- Resolução dos desafios/Projeto
+ Resolução de Projetos
